@@ -1,5 +1,5 @@
 {
-    "name": "HATSUNE-MIKU-ULTRA",
+    "name": "KanakiBot-Ultra",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -14,16 +14,16 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA",
+    "homepage": "https://github.com/Saldarriaga184/KanakiBot-Ultra",
     "author": {
-        "name": "OFC-YOVANI"
+        "name": "Saldarriaga184"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git"
+        "url": "git+https://github.com/Saldarriaga184/KanakiBot-Ultra.git"
     },
     "bugs": {
-        "url": "https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/issues"
+        "url": "https://github.com/Saldarriaga184/KanakiBot-Ultra/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
