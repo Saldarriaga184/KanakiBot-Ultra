@@ -4,7 +4,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 if (!args[0]) throw `*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝙶𝚁𝙴𝚂𝙴 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙳𝙴 𝚄𝙽 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝙳𝙴 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼, 𝙴𝙹𝙴𝙼𝙿𝙻𝙾: ${usedPrefix + command} luisitocomunica*`
 let res = await igstalk(args[0].replace(/^@/, ''))
 let json = JSON.parse(JSON.stringify(res))
-let iggs = `╭━〘𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰〙━⊷ 
+let iggs = `╭━〘𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙐𝙡𝙩𝙧𝙖〙━⊷ 
 ┃ ⛥│◦➛▢ *Username:* ${json.username}
 ┃ ⛥│◦➛▢ *Nickname:* ${json.fullName}
 ┃ ⛥│◦➛▢ *Followers:* ${json.followers}
