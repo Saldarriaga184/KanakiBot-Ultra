@@ -11,7 +11,7 @@ export async function before(m, { conn, isAdmin, isBotAdmin, isOwner, isROwner }
     let bot = global.db.data.settings[this.user.jid] || {}
     
     if (bot.antiPrivate && !isOwner && !isROwner) {
-       await m.reply(`*ʜᴏʟᴀ* @${m.sender.split`@`[0]}, *👋ʟᴏ ʟᴀᴍᴇɴᴛᴏ ᴘᴇʀᴏ ᴇsᴛᴀ ᴘʀᴏʜɪʙɪᴅᴏ ᴇʟ ᴄʜᴀᴛ ᴘʀɪᴠᴀᴅᴏ sᴇʀᴀ ʙʟᴏǫᴜᴇᴀᴅᴏ🍀*`, false, { mentions: [m.sender] })
+       await m.reply(`*ʜᴏʟᴀ* @${m.sender.split`@`[0]}, *👋ʟᴏ ʟᴀᴍᴇɴᴛᴏ ᴘᴇʀᴏ ᴇsᴛᴀ ᴘʀᴏʜɪʙɪᴅᴏ ᴇʟ ᴄʜᴀᴛ ᴘʀɪᴠᴀᴅᴏ sᴇʀᴀ ʙʟᴏǫᴜᴇᴀᴅᴏ🍀 att 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙐𝙡𝙩𝙧𝙖*`, false, { mentions: [m.sender] })
        await this.updateBlockStatus(m.chat, 'block')
     }
     return !1
