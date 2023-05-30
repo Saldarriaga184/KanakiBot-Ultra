@@ -50,7 +50,7 @@ pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget &&
 ```
 
 ```bash
-wget -O - https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/Saldarriaga184/KanakiBot-Ultra/master/install.sh | bash
 ```
 
 
@@ -70,7 +70,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git && cd HATSUNE-MIKU-ULTRA
+git clone https://github.com/Saldarriaga184/KanakiBot-Ultra.git && cd KanakiBot-Ultra 
 ```
 
 ```bash
@@ -94,7 +94,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HATSUNE-MIKU-ULTRA
+> cd KanakiBot-Ultra 
 ```
 
 ```bash
@@ -107,7 +107,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HATSUNE-MIKU-ULTRA
+> cd KanakiBot-Ultra 
 ```
 
 ```bash
