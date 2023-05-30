@@ -13,7 +13,7 @@ let json = await res.json()
 if (!json.thumbnail.genius) throw json
 
 
-let letratexto =`╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙━⊷ 
+let letratexto =`╭━〘𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙐𝙡𝙩𝙧𝙖〙━⊷ 
 ┃ ⛥││◦➛𝐓𝐈𝐓𝐔𝐋𝐎: *${result.title}*
 ┃ ⛥││◦➛𝐀𝐔𝐓𝐎𝐑 ${result.author}
 ┃ ⛥││◦➛${result.lyrics}
