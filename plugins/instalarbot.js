@@ -17,10 +17,10 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `╭─────────────◆
-┃✯𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰
+┃✯༄●⃝𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙐𝙡𝙩𝙧𝙖
 ┃✯-𝗛ᴏʟᴀ,➟${taguser}
 ┃✯🍁᭢━━━━━━━━━᭥🍁᭢
-┃✯│▢ᴏᴡɴᴇʀ:ᴏғᴄ➟Saldarriaga184 
+┃✯│▢ᴏᴡɴᴇʀ:ᴏғᴄ➟D.E.S.N_OFFICIAL17 
 ┃✯│▢ғᴇᴄʜᴀ:➟${date}
 ┃✯│▢ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 ┃✯╰▢ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
@@ -41,7 +41,7 @@ let str = `╭─────────────◆
 ┃✯│cd && termux-setup-storage
 ┃✯│apt-get update -y && apt-get upgrade -y
 ┃✯│pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
-┃✯│git clone https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git && cd HATSUNE-MIKU-ULTRA
+┃✯│git clone https://github.com/Saldarriaga184/KanakiBot-Ultra.git && cd KanakiBot-Ultra 
 ┃✯│yarn 
 ┃✯│npm install
 ┃✯│npm update
@@ -54,9 +54,9 @@ let str = `╭─────────────◆
 ┃✯│opción 2 estos comandos son para los que no pudieron hacer con los comandos normales estos comandos lo van a instalar solito 
 ┃✯│termux-setup-storage
 ┃✯│pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget && pkg install yarn
-┃✯╰wget -O - https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/master/install.sh | bash
+┃✯╰wget -O - https://raw.githubusercontent.com/Saldarriaga184/KanakiBot-Ultra/master/install.sh | bash
 ╰━━━━━━━━━━━──⊷
-ᴏᴡɴᴇʀ:ᴏғᴄ➟ʏᴏᴠᴀɴɪ
+ᴏᴡɴᴇʀ:ᴏғᴄ➟D.E.S.N_OFFICIAL17 
 ɴᴜᴍᴇʀᴏ:Wa.me/593990058725`.trim()
 if (m.isGroup) {
 conn.sendMessage(m.chat, { image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')}, { quoted: m })    
