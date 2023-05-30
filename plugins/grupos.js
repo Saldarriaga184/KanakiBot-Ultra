@@ -43,8 +43,8 @@ let str = `╭─────────────◆
 ┃✯│𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚍𝚒𝚜𝚌𝚘𝚛𝚍 
 ┃✯╰https://discord.gg/tUJSTNA9
 ╰━━━━━━━━━━━──⊷
-ᴏᴡɴᴇʀ:ᴏғᴄ➟ʏᴏᴠᴀɴɪ
-ɴᴜᴍᴇʀᴏ:Wa.me/5212412377467`.trim()
+ᴏᴡɴᴇʀ:ᴏғᴄ➟Saldarriaga184 
+ɴᴜᴍᴇʀᴏ:Wa.me/593990058725`.trim()
 if (m.isGroup) {
 conn.sendMessage(m.chat, { image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')}, { quoted: m })    
 } else {    
