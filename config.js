@@ -96,8 +96,8 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰 ✍'
-global.igfg = '⫷᭄𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰 ✍'
+global.wm = '©Saldarriaga184﹏✍\n⫷᭄ ✍'
+global.igfg = '⫷᭄KanakiBot-Ultra✍'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
