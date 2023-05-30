@@ -4,13 +4,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['593990058725, 'Saldarriaga184, true],
+  ['593990058725, 'Saldarriaga184', true],
   ['+593968711217', '༄●⃝𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙐𝙡𝙩𝙧𝙖', true],
 
-global.suittag =['5212412477467']
+global.suittag =['593990058725']
 global.mods = []
-global.prems = ['5212412474767'], 
-global.prems = ['5212412377467'],
+global.prems = ['593968711217'], 
+global.prems = ['593990058725'],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
