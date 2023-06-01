@@ -1,3 +1,12 @@
+
+<p align="center"> 
+<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=KanekiBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/WwxBm8o.jpg" alt="KanekiBot-MD" width="900"/>
+</p>
+
 ![16856393191121084983916756658229.jpg](https://github.com/Saldarriaga184/KanekiBot-MD/assets/131302001/6ce23c84-af2b-4c89-9463-93bb81b35152)
 
 
