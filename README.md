@@ -1,4 +1,4 @@
-![https://pin.it/2Sbl9WY.jpg](https://github.com/Saldarriaga184/KanakiBot-Ultra/assets/131302001/8c3e3055-5840-4b5b-b43b-cd8574e02f63)
+https://pin.it/3waPomN
 
 
 # `👾KanakiBot-Ultra💥`
