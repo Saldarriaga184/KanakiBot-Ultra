@@ -136,7 +136,8 @@ npm start
 - HATSUNE-MIKU - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 
 
-## `CREADO POR OFC-YOVANI` 
-<a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/JP52fdP.jpg" width="250" height="250" alt="YOVANI"/></a>
+## `CREADO POR D.E.S.N_OFFICIAL17 ` 
+![16856425346489101313499625675153.jpg](https://github.com/Saldarriaga184/KanekiBot-MD/assets/131302001/3b422bb1-9128-4e1c-976c-35a7f082050b)
+
   
 `KanakiBot-Ultra- By D.E.S.N_OFFICIAL17 `
