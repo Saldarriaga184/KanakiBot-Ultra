@@ -1,7 +1,7 @@
 ![16856393191121084983916756658229.jpg](https://github.com/Saldarriaga184/KanekiBot-MD/assets/131302001/6ce23c84-af2b-4c89-9463-93bb81b35152)
 
 
-# `👾KanakiBot-Ultra💥`
+# `👾KanakiBot-Ultra`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
 <a href="http://wa.me/593990058725" target="blank"><img src="https://img.shields.io/badge/OFC-D.E.S.N_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -14,7 +14,7 @@
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 
-<a href="https://api.whatsapp.com/send/?phone=5212411347465&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=57382821993&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
 
@@ -26,18 +26,18 @@
 
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/OFC-YOVANI/HATSUNE-MIKU)](https://repl.it/github/OFC-YOVANI/HATSUNE-MIKU)
+[![Run on Repl.it](https://repl.it/badge/github/Saldarriaga184/KanakiBot-Ultra)](https://repl.it/github/Saldarriaga184/KanakiBot-Ultra)
 
 ### `—◉ 💥 ACTIVAR EN KOYEB 💥`
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/OFC-YOVANI/HATSUNE-MIKU&branch=master&name=Hatsunemikubot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Saldarriaga184/KanakiBot-Ultra&branch=master&name=Hatsunemikubot)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-YOVANI/HATSUNE-MIKU)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Saldarriaga184/KanakiBot-Ultra)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Saldarriaga184/KanakiBot-Ultra/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Saldarriaga184/KanakiBot-Ultra/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾
 PRIMERA OPCIÓN `
@@ -120,7 +120,7 @@ npm start
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/Saldarriaga184/KanakiBot-Ultra/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
 - Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
 - Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
 - Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
@@ -139,4 +139,4 @@ npm start
 ## `CREADO POR OFC-YOVANI` 
 <a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/JP52fdP.jpg" width="250" height="250" alt="YOVANI"/></a>
   
-`HATSUNE-MIKU-ULTRA - By YOVANI`
+`KanakiBot-Ultra- By D.E.S.N_OFFICIAL17 `
