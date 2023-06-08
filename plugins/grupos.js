@@ -47,7 +47,7 @@ let str = `╭─────────────◆
 ┃✯│𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚈𝚘𝚞𝚃𝚞𝚋𝚎
 ┃✯│https://www.youtube.com/@d.e.s.n_offcial17
 ╰━━━━━━━━━━━──⊷
-ᴏᴡɴᴇʀ:ᴏғᴄ➟Saldarriaga184 
+ᴏᴡɴᴇʀ:ᴏғᴄ➟D.E.S.N_OFFICIAL17 
 ɴᴜᴍᴇʀᴏ:Wa.me/593990058725`.trim()
 if (m.isGroup) {
 conn.sendMessage(m.chat, { image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')}, { quoted: m })    
