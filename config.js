@@ -64,7 +64,7 @@ import fs from 'fs'
  } 
   
  global.packname = '𝑲𝒂𝒏𝒂𝒌𝒊𝑩𝒐𝒕-𝑼𝒍𝒕𝒓𝒂 ' 
- global.author = 𝘿.𝙀.𝙎.𝙉-𝙊𝙁𝘾17' 
+ global.author = '𝘿.𝙀.𝙎.𝙉-𝙊𝙁𝘾17' 
  global.vs = '1.10.90' 
  global.version = vs 
  global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍' 
